@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructoraLibrary", "ConstructoraLibrary\ConstructoraLibrary.csproj", "{5E3C9DF5-DE5B-4CEB-B8B5-5AAB9FE16705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConstructora", "WebConstructora\WebConstructora.csproj", "{FCC0D02F-8672-42EF-BB2B-8F10B032F094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3C9DF5-DE5B-4CEB-B8B5-5AAB9FE16705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3C9DF5-DE5B-4CEB-B8B5-5AAB9FE16705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3C9DF5-DE5B-4CEB-B8B5-5AAB9FE16705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3C9DF5-DE5B-4CEB-B8B5-5AAB9FE16705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC0D02F-8672-42EF-BB2B-8F10B032F094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC0D02F-8672-42EF-BB2B-8F10B032F094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC0D02F-8672-42EF-BB2B-8F10B032F094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC0D02F-8672-42EF-BB2B-8F10B032F094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EECCFEC5-2FF6-492F-8268-88B5027EF355}
+	EndGlobalSection
+EndGlobal
